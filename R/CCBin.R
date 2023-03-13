@@ -1,4 +1,4 @@
-#' @title CCBin
+#' @title CC Bin
 #' @description Bins yeast or human CC-seq data quickly using data.table. The outpout can be strand separated, or totalled, and can be in sparse or full format.
 #' @param in.mode Reading in .RDS file or a folder of FullMaps? Choose "rds" or "fullmap".  Defaults to "rds".
 #' @param path.name A character string defining the RDS file or folder containing FullMaps.
